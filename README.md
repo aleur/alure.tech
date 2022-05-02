@@ -1,4 +1,4 @@
-# alure.tech
+# 🖥️ alure.tech
 A Windows 10 Setup that primarily focuses on latency and performance.
 
 [1. BIOS Configuration](docs/bios.md)
