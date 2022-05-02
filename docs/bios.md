@@ -8,4 +8,3 @@
 5. Disable C-States
 6. Enable XMP if not manually overclocking.
 7. Disable anything you're not using at the moment. For example, secondary LAN or ATA controllers.
-8. Disable HPET (High Precision Event Timer)
