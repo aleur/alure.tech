@@ -1,7 +1,7 @@
 # alure.tech
 An optimized Windows 10 setup.
 
-[1. BIOS Configuration]
+[1. BIOS Configuration](docs/bios.md)
 
 [2. Windows Installation]
 
