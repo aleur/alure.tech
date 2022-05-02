@@ -1,4 +1,4 @@
-### Our goal is to lower the amount of apps being used in the background and there isn't much to do since the ISO took care of most of the bloat.
+### There isn't much to do now since the ISO debloated almost everything. We just have to do a little cleanup and a few tweaks.
 
 1. Run my [regedit](registrytweaks.reg) lol
 > Check the contents to make sure that it suits your needs. Remove anything you don't want.
