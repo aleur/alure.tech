@@ -11,4 +11,4 @@
 > If you do use mouse acceleration still turn this off and use [Raw Accel](https://github.com/a1xd/rawaccel)
 9. 100% Scaling
 10. Windows Fix Blurry Apps Off
-11. Install [Ultimate Performance](files/powerplan.cmd) Powerplan as admin.
+11. Install [Ultimate Performance](alure.tech/files/powerplan.cmd) Powerplan as admin.
