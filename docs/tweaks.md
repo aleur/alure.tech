@@ -1,4 +1,4 @@
-Our goal is to lower the amount of apps being used in the background and there isn't much to do since the ISO took care of most of the bloat.
+### Our goal is to lower the amount of apps being used in the background and there isn't much to do since the ISO took care of most of the bloat.
 
 1. Run my regedit lol
 > Download it and check the contents to make sure that it suits your needs. Remove anything you don't want.
@@ -11,4 +11,4 @@ Our goal is to lower the amount of apps being used in the background and there i
 > If you do use mouse acceleration still turn this off and use [Raw Accel](https://github.com/a1xd/rawaccel)
 9. 100% Scaling
 10. Windows Fix Blurry Apps Off
-11. Install Ultimate Performance Powerplan
+11. Install [Ultimate Performance](files/powerplan.cmd) Powerplan as admin.
