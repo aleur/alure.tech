@@ -11,4 +11,5 @@
 > If you do use mouse acceleration still turn this off and use [Raw Accel](https://github.com/a1xd/rawaccel)
 9. 100% Scaling
 10. Windows Fix Blurry Apps Off
-11. 
+11. Use the "High Performance" power plan
+> You can install a custom power plan or even make your own using [PowerSettingsExplorer](https://forums.guru3d.com/threads/windows-power-plan-settings-explorer-utility.416058/).
