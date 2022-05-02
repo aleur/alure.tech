@@ -1,6 +1,6 @@
 ### Our goal is to lower the amount of apps being used in the background and there isn't much to do since the ISO took care of most of the bloat.
 
-1. Run my regedit lol
+1. Run my [regedit](registrytweaks.reg) lol
 > Download it and check the contents to make sure that it suits your needs. Remove anything you don't want.
 3. Update your drivers using [Snappy Driver Installer](https://sdi-tool.org/)
 4. Clear your %Temp% files
