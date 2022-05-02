@@ -1,5 +1,5 @@
 # alure.tech
-An optimized Windows 10 setup.
+A Windows 10 Setup that primarily focuses on latency and performance.
 
 [1. BIOS Configuration](docs/bios.md)
 
