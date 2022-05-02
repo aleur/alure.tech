@@ -14,4 +14,4 @@
 11. Use the "High Performance" power plan
 > You can install a custom power plan or even make your own using [PowerSettingsExplorer](https://forums.guru3d.com/threads/windows-power-plan-settings-explorer-utility.416058/).
 12. Process Scheduling
-> I would have never known about this if it wasn't for [Calypto](https://twitter.com/CaIypto) and his [Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit). I won't explain it because he can do it better.
+> I would have never known about this if it wasn't for [Calypto](https://twitter.com/CaIypto) and his [Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit). I won't write much about it because he did it better, but it's very impactful on FPS and latency.
